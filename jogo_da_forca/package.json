@@ -1,0 +1,13 @@
+{
+  "name": "jogo_da_forca",
+  "version": "1.0.0",
+  "description": "construção de jogo da forca",
+  "main": "forca_index.html",
+  "scripts": {
+    "start": "node forca_index.html",
+    "test": "cho \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ednei Soares",
+  "license": "ISC"
+}
